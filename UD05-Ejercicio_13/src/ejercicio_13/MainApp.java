@@ -23,7 +23,7 @@ public class MainApp {
 		double primerOperando = Double.parseDouble(primerDato);
 		
 		System.out.print("Introduce segundo operando: ");
-		String segundoDato = JOptionPane.showInputDialog("Introduce primer operando: ");
+		String segundoDato = JOptionPane.showInputDialog("Introduce segundo operando: ");
 		double segundoOperando = Double.parseDouble(segundoDato);
 		
 		
